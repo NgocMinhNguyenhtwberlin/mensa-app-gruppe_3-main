@@ -1,0 +1,34 @@
+# How Might We
+Minh Thu Nguyen - Ngoc Minh Nguyen - Mauirz Weymann
+
+## Allgemeine Beobachtungen
+
+- Wie kann ich die Kosten für mein Essen im voraus Kalkulieren?
+- Wie können wir den Ursprung und Verbleib der Lebensmittel kommunizieren?
+- Wie können wir dabei helfen den CO2 Fußabdruck in der Mensa zu reduzieren?
+- Wie können wir den Besuch in der Mensa etwas persönlicher gestalten?
+- Wie können wir Bewertungen oder Stimmungsbilder zu angebotenen Speisen sammeln?
+- Wie können Wünsche der Studenten bei der Planung mit einbezogen werden
+- Wie können wir ein Bonussystem mit Hilfe der App umsetzen?
+
+## Wünsche/ Bedürfnisse/ Ziele
+
+- Was können wir tun damit du häufiger in die Mensa gehst? Wie können wir helfen, dass die Studenten häufiger in die Mensa kommen?
+- Wie kann man das Menu für die ganze Woche abrufen?
+- Wie kann der Benutzer Tische reservieren ?
+
+## Überraschungen/ Widersprüche/ Erkenntnisse
+
+- Wie kann Benutzer die Änderung der Öffnungszeiten wissen?
+- Wann gibt es wenigsten Leute an Mensa?
+- Wie lange bleibt man häufig in Mensa?
+- Wie können bestehende Lösungen von anderen Hochschulen/Mensen mit einbeziehen?
+
+## Hürden/ Sorgen/ Ängste
+
+- Wie kann ein Benutzer ohne Internet die App benutzen?
+- Wie kann der Benutzer sein Guthaben checken?
+- Wie kann der Benutzer Allergene in den Gerichten checken? Wie kann ich ein Gericht, passend zu meiner Diät finden?
+- Wie können wir eine andere Art der Bezahlung als mit der Mensa Karte realisieren?
+- Wie können wir helfen sich in der Mensa zum Lunch zu verabreden?
+- Wie können wir helfen den Kontakt des Mädchens/Jungen am anderen Tisch zu bekommen?
