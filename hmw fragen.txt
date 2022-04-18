@@ -32,3 +32,6 @@ Minh Thu Nguyen - Ngoc Minh Nguyen - Mauirz Weymann
 - Wie können wir eine andere Art der Bezahlung als mit der Mensa Karte realisieren?
 - Wie können wir helfen sich in der Mensa zum Lunch zu verabreden?
 - Wie können wir helfen den Kontakt des Mädchens/Jungen am anderen Tisch zu bekommen?
+
+test
+test
